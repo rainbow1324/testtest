@@ -11,4 +11,4 @@
  
  [돌아가기](README.md)
  
- [돌아가기 절대경로](.README.md)
+ [돌아가기 절대경로](./README.md)
